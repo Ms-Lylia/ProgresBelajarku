@@ -5,3 +5,9 @@ respository ini berisi tentang progres belajar git menggunakan modul dari dicodi
 - Belajar dasar git & github
 - Memulai dasar pemograman untuk menjadi pengembang software
 - Pengenalan logika pemograman (programming logic 101)
+
+*22 Agustus 2023*
+Belajar kelas dasar pemograman dan git . (Progres 56%)
+- Belajar dasar git & github
+- Memulai dasar pemograman untuk menjadi pengembang software
+- Pengenalan logika pemograman (programming logic 101)
