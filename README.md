@@ -12,3 +12,10 @@ Belajar kelas dasar pemograman dan git . (Progres 56%)
 - Belajar dasar git & github
 - Memulai dasar pemograman untuk menjadi pengembang software
 - Pengenalan logika pemograman (programming logic 101)
+
+**25 Agustus 2023**  <br>
+Belajar kelas dasar pemograman dan git . (Progres 100%)
+  * Belajar dasar git & github
+  * Memulai dasar pemograman untuk menjadi pengembang software
+  * Pengenalan logika pemograman (programming logic 101)
+  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
